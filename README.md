@@ -1,6 +1,6 @@
 AI-Powered Doctor Appointment Booking & Patient Reminder System 
 
- 
+ <img src="./doctorpatient.png" alt="System Architecture" width="100%">
 
 1. Project Overview 
 
