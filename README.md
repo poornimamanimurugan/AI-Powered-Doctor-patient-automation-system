@@ -40,33 +40,33 @@ Patients call the clinic.
 
 The AI voice agent: 
 
-Greets the patient 
+-Greets the patient 
 
-Collects patient details 
+-Collects patient details 
 
-Checks appointment availability 
+-Checks appointment availability 
 
-Books appointment 
+-Books appointment 
 
-Creates calendar event 
+-Creates calendar event 
 
-Sends confirmation email 
+-Sends confirmation email 
 
-Stores patient information 
+-Stores patient information 
 
 Workflow 2: Appointment Reminder Voice Agent 
 
-Before the appointment date: 
+-Before the appointment date: 
 
-System identifies upcoming appointments 
+-System identifies upcoming appointments 
 
-AI voice agent calls patients 
+-AI voice agent calls patients 
 
-Reminds them about their appointment 
+-Reminds them about their appointment 
 
-Confirms attendance 
+-Confirms attendance 
 
-Updates reminder status 
+-Updates reminder status 
 
  
 
@@ -74,35 +74,19 @@ Updates reminder status
 
 Component 
 
-Tool 
+Tool ->Voice Agent Retell AI 
 
-Voice Agent 
+Workflow Automation ->n8n 
 
-Retell AI 
+Database ->Google Sheets 
 
-Workflow Automation 
+Scheduling ->Google Calendar 
 
-n8n 
+Email Service ->Gmail 
 
-Database 
+APIs ->Retell API 
 
-Google Sheets 
-
-Scheduling 
-
-Google Calendar 
-
-Email Service 
-
-Gmail 
-
-APIs 
-
-Retell API 
-
-Webhooks 
-
-n8n Webhooks 
+Webhooks ->n8n Webhooks 
 
  
 
@@ -583,19 +567,19 @@ Built an end-to-end healthcare appointment management solution using Retell AI, 
 
 Skills Demonstrated 
 
-AI Voice Agent Development 
+-AI Voice Agent Development 
 
-Retell AI 
+-Retell AI 
 
-n8n Automation 
+-n8n Automation 
 
-Webhooks & APIs 
+-Webhooks & APIs 
 
-Google Calendar Integration 
+-Google Calendar Integration 
 
-Google Sheets Database 
+-Google Sheets Database 
 
-Gmail Automation 
+-Gmail Automation 
 
 Workflow Design 
 
